@@ -1,0 +1,21 @@
+# 42ldap
+
+ldap proxy and potentially authentication replacement
+
+## Problem Statement
+
+42 technical challenge: we are working on the interface between our Macs and the LDAP server. We would like to replace it with an other authentification.
+It might be a good project for you!
+
+Specification: during the Authentification / binding process, what we are looking for: (one of the following)
+1 Create a server which speak the LDAP language in order to respond to the iMac
+2 Create a proxy which read all the communication between one iMac and the LDAP Server
+3 The transcript of the communication between iMac and LDAP Server
+
+Timing: Now -> 10 days (hah)
+Difficulty: Hard
+Reward: T2 :slightly_smiling_face:
+Skill: Ops + Dev + Hacker
+
+If you are interested: PM me
+
